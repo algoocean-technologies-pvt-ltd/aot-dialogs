@@ -1,8 +1,8 @@
 name: aot_dailogs
-description: A new Flutter package project.
+description: AOT Dialogs includes three commonly used dialog boxes used in flutter projects
 version: 0.0.1
-author:
-homepage:
+author: Algoocean Technologies Pvt Ltd.
+homepage: https://github.com/algoocean-technologies-pvt-ltd/aot-dialogs.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
